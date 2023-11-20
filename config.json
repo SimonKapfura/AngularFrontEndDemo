@@ -1,0 +1,11 @@
+{
+  "ConnectionStrings": {
+    "Context": "Data Source=A-SSB-IPLS83ZZ0;Initial Catalog=EFDb;Integrated Security=True;Connect Timeout=30;MultipleActiveResultSets=true;Trust Server Certificate=true"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  }
+}
